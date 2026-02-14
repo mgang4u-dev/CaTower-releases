@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "notes": "v0.2.10: Release\n\n## v0.2.10  ### 수정 - 런타임 전체 삭제 후 초기 화면(런타임 설치 페이지)으로 복귀하지 않던 문제 수정  ### 개선 - 런타임 제거 중 삭제 진행 상태 표시 추가 - 초기 설치 페이지 안내 문구 개선 ",
-  "pub_date": "2026-02-14T08:56:59Z",
+  "version": "0.2.11",
+  "notes": "v0.2.11: Release\n\n## v0.2.11  ### 개선 - 초기 설치 페이지 UI 간소화 (불필요한 안내 문구 및 아이콘 제거) ",
+  "pub_date": "2026-02-14T09:05:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFBeU1tNHZZa3c1TWpWRFN6aFRkVmxKTUdSVE5EbFZZMUp2Y1hCMVZqUnVTR3BrZDJkUmRIWkpiMnR6TVZsV1EwWTVOVlJXYm5SRFlWWlNNR1pUU21aNll6Um9PRkp0T0ROMFFqbGpVRFYzWVdKNE5sRnZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTVNekkzQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncEZUa05EZDNFNGJXY3ZNVEJqU2tWNFMxaEVVM2N6VlRnMGVWWTFZakJ2U2prNWFWTTNiRGx3YXpsWk5YbHNPVkUyVDI5UVMwZDBaREV6VVcxNlRraDNOakJuYTNGYUwxcDROVUpGUm5WTU5XTmpUVWhFVVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.10/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBNMGEwNDVkRWxzVFhoTFpVNXpTeXMzTm5ZM1UwWnViM2d5SzBkQmVqVnlka1ZtU1V0VlZYTkxORUpyTmtFM01EaHBVbUpwZUVkUFZteGtSVTUwYWsxcGIzcHNNeXMzYWtKaFFWSkxMMkZqVEhkMWFrRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTVPRE15Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVOVTB6ZGpGSlRtcHNkMlo0ZUhNMmFucEhaV3NyVDBsRFdubzJWbWhPVFROdk4zVjVjbVpxYjFZNGEwcHVUMnhGTlVkS1JrVkdhV2RpYW14NU1WZFFOMHRETldGdWIyMHJWVUo1YXpSdGEyMVVUMDlEUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.11/CaTop.app.tar.gz"
     }
   }
 }
