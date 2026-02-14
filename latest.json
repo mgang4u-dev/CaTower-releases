@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "v0.2.1: Release\n\n## v0.2.1  ### 개선 - 페이지 로딩 시 텍스트 대신 스피너 표시로 변경 ",
-  "pub_date": "2026-02-14T06:31:40Z",
+  "version": "0.2.2",
+  "notes": "v0.2.2: Release\n\n## v0.2.2  ### 버그 수정 - 자동 업데이트 체크 URL 수정 (릴리즈 레포 경로 오류)  ### 개선 - 페이지 로딩 시 텍스트 대신 스피너 표시로 변경 - 사이드바 Apple Container → Container 표기 변경 ",
+  "pub_date": "2026-02-14T06:42:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1dGFYb3lXbXBuY0d0WGRFMW1RMDF0TlRod1NEaFpUMUZaVFU1QlZEVlhWVTFKVWxST1VXUlZXWE5MUzJkV2RGWlZjMVJKY0hOVmNqRkNkbVppU0Vwd1RVdG5ObFpNY0UwMlluQmtjWGRxT0hCSWIxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXdOakExQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncFNRa2xhT1U5U2F6SkhkRGR0UkZCelZGbGFNRVprSzFSVmRFRjFNVzV2YWxCTFMwNHJZWEF2ZHpOWVpUQkZTR1ppZUZOdlprSjRaMVp6YnpSSVUyY3pWR1p0V0hWQ01FaHFkM2t4VWs1elNEbHpNR1pEZHowOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.1/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAwMlRqRnVTRGQxZG1KWWJGUlhOVGRSUldWbFFXWkxUVE5KWTBVMVV6UTFibkZ6VURocEsyWnJhRlJoY2pKRGJEY3hZMjFZVEhNNGVWcFBlWEZ6TVZSTlRITjNNSEppTTBoNlpYSkVSRWhuV21ZdlVVRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXhNakV3Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncGlabFZEWXpkRlJuTnVabVV2T1VoUlpHbDBiRWRvZFZSeGNUSndURGhFUTNCUVlXSXhZbHBrWmxSalNqVXZhRFpWVldWaFZuUlRlbWw2ZVVGdGRFbHRUSGhFZFd4SWNHVnNPRFJLVlZSV2MyNUNkbTlCVVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.2/CaTop.app.tar.gz"
     }
   }
 }
