@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "v0.2.7: Release\n\n## v0.2.7  ### 버그 수정 - 런타임 제거 후 첫 페이지(인스톨러)로 복귀하지 않던 문제 수정  ### 개선 - 정보 페이지 스페셜 땡스 섹션 일시 숨김 ",
-  "pub_date": "2026-02-14T07:20:50Z",
+  "version": "0.2.8",
+  "notes": "v0.2.8: Release\n\n## v0.2.8  ### 버그 수정 - Colima 설치 시 limactl PATH 누락으로 시작 실패하던 문제 수정 - 런타임 없는 첫 페이지에서도 업데이트 알림 표시 ",
+  "pub_date": "2026-02-14T08:08:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoVFVIUkxjVEFyU1ZRNWVHOXdTV050U2pVd01VUkhNazAwYVUwd2FGWkdSRXBxYWt3ME1rSlVNM2RuTURWcldXVk1UMVpyZEhKbVdYZFVUMHgyUm1GVVNUSlVjRTR3WkhGSWJFcEpWWFZsYzBKeVNHZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXpOVFF3Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHRSR3h1YUROaVRqSTBUbGcyUkhSTVRsTlFkVGs1TVVWT01pOTVhVmhSWW5ZMFlrSlhaR3hPWjNkeE5VZGFPVVpaTkVSaFozbGFXREZ6ZDJOemMwVmhNWE40Tnpsc2JYRTVLM014YVhSMmVFOUhORFpDWnowOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.7/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1ellXdGxiVkZzYlhwYU0wZzNiRE42WlhsSWRUVnpUMHRDUmtGME9VRm1TWEZFZVVOSU5GTk1kemN3VVVWNlJGbERUSFJFWVVKQlpWaEpTV2tyTWxGak1sUkJObmxqU0VVdmJYUnRSV3BoUWxJM1luZEZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTJOREF4Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncGFOMkZ0WmxnM09FTmxXbGQxUVN0TFRUTnFZeTlzWjI5a1UyVnNNMDFEY2pCemQwWkpZV2xxV2pWS1NVbHlSMlJKYUU4clpHRnFRM2haUTNoTmF6WmpaMjFhVUV4U0syMW5abFpOV0hVM1NFWklTVmxEVVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.8/CaTop.app.tar.gz"
     }
   }
 }
