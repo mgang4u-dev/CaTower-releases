@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "v0.1.0: Release\n\n## v0.1.0  ### 신규 기능 - Docker/Podman/Apple Container 자동 감지 및 연결 - 컨테이너 관리 (시작, 정지, 재시작, 삭제, 셸 접속) - 이미지 관리 (Pull, 삭제, Docker Hub 검색, Run) - 볼륨 관리 (생성, 삭제, 상세 보기) - 네트워크 관리 (생성, 삭제, 상세 보기, 컨테이너 연결/해제) - 컨테이너 로그 및 리소스 모니터링 (CPU, 메모리, 네트워크) - 멀티 런타임 전환 (Docker Desktop, Colima, OrbStack, Podman, Apple Container) - Docker Compose 지원 ",
-  "pub_date": "2026-02-14T05:44:26Z",
+  "version": "0.2.0",
+  "notes": "v0.2.0: Release\n\n## v0.2.0  ### 신규 기능 - Compose 스택 레벨 Stop/Restart/Delete 지원 - Compose 서비스별 Logs/Stats 모달 - Delete 확인 모달 추가  ### 개선 - 컨테이너 상태 표시 다국어 지원 (Running → 실행 중) - 사이드바 런타임 아이콘/이름 크기 조정, 버전 표기 제거 - i18n 한글/일본어 표기 통일 (메뉴, 페이지 타이틀) - 정보 페이지 수직 중앙 정렬 - 우클릭 컨텍스트 메뉴 비활성화 ",
+  "pub_date": "2026-02-14T05:54:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB4aFQzSnJSRFZDZGtWbU1GTkZWM2Q1WkhWMFNtdFBjMU5QV0ZoelVuZFJhRWxXY1hWMVdEaERiazVEU0hkcGVWcFVWR3d2V0hNelV6bFpPWEJWUTFWVWVXbzJlalpGUkdselJXNUdZbVZoVm1aWVVsRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EQTFPRGMzQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncE5lRWxqV21SSGRXVkNUSGhKVVhKRWRITmFUV2d3UlhVdlZXRm1jelp4ZGpaVFRrNXJVbTE1UWxwUGVURjBNMGRZTkdkVlJtWmhWSEJUYWxVMWMzSnVURWx5TXpKa09YZHhNVXAyWlRkSVZFVnlLM1ZCUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.1.0/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFBM2JraHVOVE5YVFZjeGVHNTFiVGRZVTNsNU5UTnBjVXBPVnpNNWJscEJjRGhNVlVGUWFGSktia0p6ZVhrclFtMWtObkZqZWtwQ2NWcGhhR1ZZS3k5SVRVWTRVbmh1VWxkUlpDdEdOSGRxWkZsQ1UwRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EUTRNelk1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVUa0Z3VW1FeGJWcDZaMWd4V1dzME4wZEVZMWRoV1hkR1JIZDVkR1p4ZVRKM05FbE5aeXRaT0V0aGREZ3daVFpIVHpRMGRsbE1TVU5YWlVoWk9GUkJURmh1Tmsxa1drbGhOVVE1UmxKSFJUVXJRVWhCUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.0/CaTop.app.tar.gz"
     }
   }
 }
