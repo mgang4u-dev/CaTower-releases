@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "v0.2.3: Release\n\n## v0.2.3  ### 개선 - 창 제어 버튼(닫기/최소화/최대화) 위치 조정 ",
-  "pub_date": "2026-02-14T06:48:43Z",
+  "version": "0.2.4",
+  "notes": "v0.2.4: Release\n\n## v0.2.4  ### 버그 수정 - 자동 업데이트 후 앱 재시작 안 되는 문제 수정 - 업데이트 프로세스 종료 감지 오류 수정 ",
+  "pub_date": "2026-02-14T06:59:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoa09UTnZUbWhIYUdvMlZVSTRkV2xoTTNwb1dUaDRkRFZzY1U4dlNreGlZekpVVkhSTVJraDZPVEkxYjNWQlluUkdWWFZZY1VSbGJIVldVWGc1VlVGMmMyTkNPSEpXVG1wT1FuTTJZalpyZFZkb2RuZFpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXhOakExQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVnbzJMMjFWTldSSVFuVlJSREJNZUhwWE9XWXZVVXRCVld0MFZrNVVUVFJ3VTBKMkt6QjVOVGR4Y1hjd1FXWnZPVGxWVEhsclQzaFZNakl2YlM5YVdVZG1SalpvV2pRd1JXWkhVbElyYldWSmIweEJTRTFFVVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.3/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKT01WWXZaM0p5ZDJWSFptY3JhV1owVkRWRFdXeFFXVVpKU1hOdVRscG1ZVkpaVlZZMlNtbDJWVWh1TVRsT2NHNW9UWFJPYkZkWVJVOU9iakpzVkcxdk1IRTBRMUJvT1ZOR1lrRjNiMWR3V0d0b0wzYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXlNamM1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncDJZMDlCWTNOV0x6ZEJZMGswZGtSblFYSkljV1ZuY2pOblVGQnpaMDkxVEhCMGMyWmtVa3RXZFhWclUzWnRSRXRWT0VGU1EzSTRUemw1VUVsSk16UmpNV3BDVlZveGNHMUtTVkZ5VEV0c2FXdE1NMnRCZHowOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.4/CaTop.app.tar.gz"
     }
   }
 }
