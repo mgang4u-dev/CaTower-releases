@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "v0.2.8: Release\n\n## v0.2.8  ### 버그 수정 - Colima 설치 시 limactl PATH 누락으로 시작 실패하던 문제 수정 - 런타임 없는 첫 페이지에서도 업데이트 알림 표시 ",
-  "pub_date": "2026-02-14T08:08:24Z",
+  "version": "0.2.9",
+  "notes": "v0.2.9: Release\n\n## v0.2.9  ### 개선 - 런타임 제거 확인 모달에 런타임별 실제 삭제 대상 표시 ",
+  "pub_date": "2026-02-14T08:38:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1ellXdGxiVkZzYlhwYU0wZzNiRE42WlhsSWRUVnpUMHRDUmtGME9VRm1TWEZFZVVOSU5GTk1kemN3VVVWNlJGbERUSFJFWVVKQlpWaEpTV2tyTWxGak1sUkJObmxqU0VVdmJYUnRSV3BoUWxJM1luZEZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTJOREF4Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncGFOMkZ0WmxnM09FTmxXbGQxUVN0TFRUTnFZeTlzWjI5a1UyVnNNMDFEY2pCemQwWkpZV2xxV2pWS1NVbHlSMlJKYUU4clpHRnFRM2haUTNoTmF6WmpaMjFhVUV4U0syMW5abFpOV0hVM1NFWklTVmxEVVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.8/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBocVlrZEVUVEJpYkhGR1ZHSlFVM3BDU0ROd00xcHZjbEJ6UXpSU1VsQjNNMjFwVFVwNFJrSjBObTluWWl0RWRXbDBNbEJ5V1dwalZDOXpaRTVNVlVoeFVHNVVVMEZHUXpkeVdXaEljamx2UTJ4SlRVRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTRNVGsxQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncFdOa2hUZEhCSmEyYzBVVzFTVUVkdGEwdGxkMDVrV0c5NVdYRldhRE5sWTIxR1FXcG9ORGRKZW5ZeE9VTjFNbUpJU0VORmQzVXZXazh6VGtkQ1pITTNOWHBhYUc5UU5teHBTMHRtUkd4SmVpdHZTM2xFUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.9/CaTop.app.tar.gz"
     }
   }
 }
