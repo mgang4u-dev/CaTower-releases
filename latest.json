@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "v0.2.5: Release\n\n## v0.2.5  ### 버그 수정 - 런타임 제거 시 소켓 경로 포함된 ID 파싱 오류 수정 ",
-  "pub_date": "2026-02-14T07:07:09Z",
+  "version": "0.2.6",
+  "notes": "v0.2.6: Release\n\n## v0.2.6  ### 버그 수정 - Docker 제거 시 Colima VM 중지/삭제 및 잔여 프로세스 정리 추가 - 제거 후에도 런타임 목록에 표시되던 문제 수정 ",
+  "pub_date": "2026-02-14T07:13:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBZNGNUazJTbWRGVjNCTmFGRkVjM2wzTjBsRFZWUlRObE50UldGMkx6ZHZVVmhYWkhkemVscGtOMmhPUzI0eFJIUlNhVlJ0UkV4SGFqaE5lR05OTVZwUWVXUkVaVGs1TlRsek1FSmlhRFIxVjFkYVRuZEpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXlOekkyQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncDJiRmR4VFZGVk5VdHphMlJ4Ym1adldqbDBVVTVqTVc1c1kwTkVRbFowYTBWNlJIVlRWVEJoTjFWR1JrRndjMDlNTVRWWFVtTjBjREJtTkROa1N6TkdUbEpRWjB4UE1VUXJjRVJYVDBkVmJ6ZzNjRGhEUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.5/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoU1prZERRV2RGTlVKcEswc3dXRTVsUkVWVmJFeFVSbmRGTVZNMGFtNUlZVFJ2UlUxRVZWWkViMHh1TUUxRFkyNVJVRUZOVVRGS1RGRjNZbkp2UlVoNmEwVjZNWGs0YldvNVRGZHVTRll2UW5JMVMxRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXpNVEF3Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncEdVSEJCVjBkSGRFVnVPVGQ0VTJZMVdFeFliV2w0WlV4RGNHZGlXUzk0TDNNdlVFaEpRVVUwSzNaQmFrbEZZazlOTnpGSGRHcEZaVm80UW5CeFFqaEllbFV3TUhGNFNVdDNObFV2UVhkb1JTOUVaMHRFUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.6/CaTop.app.tar.gz"
     }
   }
 }
