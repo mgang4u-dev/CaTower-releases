@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "v0.2.0: Release\n\n## v0.2.0  ### 신규 기능 - Compose 스택 레벨 Stop/Restart/Delete 지원 - Compose 서비스별 Logs/Stats 모달 - Delete 확인 모달 추가  ### 개선 - 컨테이너 상태 표시 다국어 지원 (Running → 실행 중) - 사이드바 런타임 아이콘/이름 크기 조정, 버전 표기 제거 - i18n 한글/일본어 표기 통일 (메뉴, 페이지 타이틀) - 정보 페이지 수직 중앙 정렬 - 우클릭 컨텍스트 메뉴 비활성화 ",
-  "pub_date": "2026-02-14T05:54:31Z",
+  "version": "0.2.1",
+  "notes": "v0.2.1: Release\n\n## v0.2.1  ### 개선 - 페이지 로딩 시 텍스트 대신 스피너 표시로 변경 ",
+  "pub_date": "2026-02-14T06:31:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFBM2JraHVOVE5YVFZjeGVHNTFiVGRZVTNsNU5UTnBjVXBPVnpNNWJscEJjRGhNVlVGUWFGSktia0p6ZVhrclFtMWtObkZqZWtwQ2NWcGhhR1ZZS3k5SVRVWTRVbmh1VWxkUlpDdEdOSGRxWkZsQ1UwRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EUTRNelk1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVUa0Z3VW1FeGJWcDZaMWd4V1dzME4wZEVZMWRoV1hkR1JIZDVkR1p4ZVRKM05FbE5aeXRaT0V0aGREZ3daVFpIVHpRMGRsbE1TVU5YWlVoWk9GUkJURmh1Tmsxa1drbGhOVVE1UmxKSFJUVXJRVWhCUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.0/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1dGFYb3lXbXBuY0d0WGRFMW1RMDF0TlRod1NEaFpUMUZaVFU1QlZEVlhWVTFKVWxST1VXUlZXWE5MUzJkV2RGWlZjMVJKY0hOVmNqRkNkbVppU0Vwd1RVdG5ObFpNY0UwMlluQmtjWGRxT0hCSWIxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVXdOakExQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncFNRa2xhT1U5U2F6SkhkRGR0UkZCelZGbGFNRVprSzFSVmRFRjFNVzV2YWxCTFMwNHJZWEF2ZHpOWVpUQkZTR1ppZUZOdlprSjRaMVp6YnpSSVUyY3pWR1p0V0hWQ01FaHFkM2t4VWs1elNEbHpNR1pEZHowOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.1/CaTop.app.tar.gz"
     }
   }
 }
