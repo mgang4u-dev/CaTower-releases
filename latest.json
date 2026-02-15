@@ -1,11 +1,11 @@
 {
-  "version": "0.2.18",
-  "notes": "v0.2.18: Release\n\n## v0.2.18  ### 개선 사항 - 런타임 설치 중 앱 종료 후 재설치 시 중단된 단계부터 자동 재개 (멱등 설치)   - 이미 설치된 패키지는 건너뛰고, 미완료 단계만 진행   - Colima: docker/lima/colima 바이너리 및 VM 상태 개별 확인   - Podman: 바이너리, machine init, machine start 상태 개별 확인 ",
-  "pub_date": "2026-02-15T02:47:25Z",
+  "version": "0.2.19",
+  "notes": "v0.2.19: Release\n\n## v0.2.19  ### 버그 수정 - 런타임 설치 완료 판정 강화: 바이너리 존재뿐 아니라 VM 실행 상태까지 확인   - Podman: machine이 Running 상태여야 \"설치됨\"으로 표시   - Colima: VM이 실행 중이어야 \"설치됨\"으로 표시   - 중단된 설치 시 다시 설치 버튼 활성화 → 멱등 재개 가능 ",
+  "pub_date": "2026-02-15T02:51:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFCNlZrMWxNbXM0UW5WUWJWVnNUQ3RpVFVFeVVsaFRhV2xIWjBwVlFtcHZUa3N5Wm5acFYySkxRM1paZDJwb00wVnJTbHBsZW5CVldTOVpka0ZtYkVGUGEyWldjWEl2YjAxb1JVRk9XbXRTUlVwRlVIZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USXpOVFV6Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncE5kSFJ2ZFhKaFJsVkVaRFpDYkdaS1pqWlpRVXhEYjIxUVVUUkRSVkZ1U1d0RlJGVkZZbTFTWjJOelRUTndNM2hyWjJSVFNtUkpNM1JVT0VsV2VrOXdXblZITkU5eVRWVkVXRnBVTXlzemFqRjFaMDlFZHowOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.18/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBST1dWbDBUbU5FUjNadk1FNWpWVzB2TjJsaFJWcE9SbVpIYUU0eFdraDRTVXQyUm5SRE5WUjBOVkJDWXpWMVMxTkxkekpEVkZCRVMyMVFkblprVjNCNU5FbzBLM2RpWW5wRUwxTklTbFpCTW0xVWQxRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USXpPREEyQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncEJjR1JSVlVSRlVtWm9kMjFUZFVGS1JtbDJZV3BMYUdaTE5XTkxVRlJoY0hGSVRXbHFiblV5UVZSV2NHWktVbUVyYzFFemFGWlNWRzB5ZW5wTE1UQjFkbkpCT0RCUGNWQnRWSGt4VG5WWFdIbHZMMDFCZHowOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.19/CaTop.app.tar.gz"
     }
   }
 }
