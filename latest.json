@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "notes": "v0.2.15: Release\n\n## v0.2.15  ### 버그 수정 - Apple Container 설치 시 커널 다운로드 XPC 연결 오류 수정 (서비스 시작 순서 변경 + 재시도) ",
-  "pub_date": "2026-02-15T01:40:35Z",
+  "version": "0.2.16",
+  "notes": "v0.2.16: Release\n\n## v0.2.16  ### 버그 수정 - 런타임 설치 후 옵션 목록이 갱신되지 않던 문제 수정 (설치됨 상태 즉시 반영) - \"지금 연결\" 버튼 클릭 시 설치된 런타임으로 자동 전환되도록 개선 ",
+  "pub_date": "2026-02-15T01:49:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBZeFdFbFlNMmx4VW05TVJtcHhhMDlVZWxkVGRrbGhiV3BUVFRFekwyNXpVMWxQYTJZM1owbGxjSGxFSzB4S016TllabWxQY1hjMlpuaGhSemhyUlRCbFJtOTZkMHBWUm5wc1ZYQXJTVU0zYjA0NWRrRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTVOVFExQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncDZjVlpVZUdkbE5tOVlUR1JZYUU1SWQyeFJlV1kwU0ZwMlEzRkpVMGczWWpjNWJubHBNVnB6VVVWSFpXNDBTbVJMT1ZOd2NIbEJVVE56VGxsS2RXZGFiWFV6SzFkS05GcFpWV0pHT0M4M2FHRllhRVpFUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.15/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0UldXZFdjWE4xUm5WR2Iyb3lPVVJSZVVKRlpXOTNOVXhXWVVSdlFuWXhVV1UxWWtkVWVtNUtUVlpzZVVGdVJGSXhhRUZEVkdjd2NFczNSMEp6UzAwd2RXeGlZMVprUVZsSWF6UllUV3hsVURKT1oxRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USXdNRE0xQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVhbVZNYkdkTE1HOTBaalEzVDJaSVYyZFZZMnBxYVU1UGJtdFZZWFZ4ZURoT1YwOXNhazgxVDNoa2JXNHJhbGx1WTJaU1drOWtNelUzTkZVelFWcHVRVmh6ZVhwaGVVZ3pSbUZaWmxGRGJubHlXbEJDUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.16/CaTop.app.tar.gz"
     }
   }
 }
