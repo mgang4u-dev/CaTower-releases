@@ -1,11 +1,11 @@
 {
-  "version": "0.2.16",
-  "notes": "v0.2.16: Release\n\n## v0.2.16  ### 버그 수정 - 런타임 설치 후 옵션 목록이 갱신되지 않던 문제 수정 (설치됨 상태 즉시 반영) - \"지금 연결\" 버튼 클릭 시 설치된 런타임으로 자동 전환되도록 개선 ",
-  "pub_date": "2026-02-15T01:49:04Z",
+  "version": "0.2.17",
+  "notes": "v0.2.17: Release\n\n## v0.2.17  ### 변경 사항 - 정보 페이지에서 버그 보고 링크 제거 - 런타임 전환 시 전체 화면 로딩 화면이 뜨지 않도록 개선 - Colima/Podman 신규 설치 기본값 통일: 4 core, 4GB 메모리, 150GB 디스크 ",
+  "pub_date": "2026-02-15T02:21:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0UldXZFdjWE4xUm5WR2Iyb3lPVVJSZVVKRlpXOTNOVXhXWVVSdlFuWXhVV1UxWWtkVWVtNUtUVlpzZVVGdVJGSXhhRUZEVkdjd2NFczNSMEp6UzAwd2RXeGlZMVprUVZsSWF6UllUV3hsVURKT1oxRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USXdNRE0xQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVhbVZNYkdkTE1HOTBaalEzVDJaSVYyZFZZMnBxYVU1UGJtdFZZWFZ4ZURoT1YwOXNhazgxVDNoa2JXNHJhbGx1WTJaU1drOWtNelUzTkZVelFWcHVRVmh6ZVhwaGVVZ3pSbUZaWmxGRGJubHlXbEJDUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.16/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA4M2VDdHVMMGhsU1hWUFNqVlRlRlZHT1ZGbFUzRTVUM3BCVUhWeFF5OWhNekpVWnpSdFVrWnlVMVZJSzNONU1qaDZNbmxFTkdneFYyTTJRVzB3WlRKT2JHUTBVRzlPVUdreE5ETTRUREV5U0hSNk4xRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USXhPVGczQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncG5ZVlZaZGtZM0wwbGFlblJ1UTNSUFMwZFlhSFZuZEhaMll6WnBNVVFyZEdGMVR6RjZSa1U0VlRkUlptcHhOalpIWTA1dlowdDRlSEJ1V2tkVldVMURMelZ1WlUxYVUzRklWMXBDWkhaTFJrRmFjM2xFVVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.17/CaTop.app.tar.gz"
     }
   }
 }
