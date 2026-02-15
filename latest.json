@@ -1,10 +1,10 @@
 {
   "version": "0.3.0",
   "notes": "v0.3.0: Release\n\n## v0.3.0  ### 개선 - 설치 중 네비게이션 차단: 런타임 설치 진행 중 사이드바 클릭으로 페이지 이동 방지 - 설치 중 \"숨기기\" 버튼 차단: 설치 UI가 실수로 접히지 않도록 방지 - 차단 시 경고 배너 표시 (2초 후 자동 소멸)  ### 버그 수정 - Podman 기존 machine이 있을 때 리소스가 기본값(2GB)으로 유지되던 버그 수정   - 기존 machine에 `podman machine set --cpus 4 --memory 4096` 실행하여 리소스 업데이트  ## v0.2.19  ### 버그 수정 - 런타임 설치 완료 판정 강화: 바이너리 존재뿐 아니라 VM 실행 상태까지 확인   - Podman: machine이 Running 상태여야 \"설치됨\"으로 표시   - Colima: VM이 실행 중이어야 \"설치됨\"으로 표시   - 중단된 설치 시 다시 설치 버튼 활성화 → 멱등 재개 가능 ",
-  "pub_date": "2026-02-15T04:08:17Z",
+  "pub_date": "2026-02-15T04:19:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWemNYSjFhVlU0WmpWS2EzcE9aRzl4VmxVMk4yMVBkbVJpT0Uxc1lqQlFPSGRwYmxKU05FSlNhalozYmpSdkszcHRVV2d6WjFvMU55dGxVR1IxTDJoeGRHWmlkV1VyTHpsSVJWWlpjMHg2TTFkTFJFRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USTRNemc1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVnb3hZVTQ1ZUROV056WjFURVZ6YjNKU01HZFBTRmRSUW1oTmRDczBNV3BJVkdOT1ZVVmxUbGxKVGxneU0wMHhjamRvZFhsbFFYRTRiVGRDWVhFNVYzQXZhbHBCY3pWTldDdDVVMUZvTnpoQmJYcDNVVzFEUVQwOUNnPT0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKc2FYVldkbWszZW5oSVZFOXZaamtyYVVkSlpFVnFlVTk2V0V4SVJGVkxkSFJvVjFadFZrdHRTMVpEYzFwNWVFOUlUbEUyTWxwcFlVMWhZV1pzU1cxNVoyRllkbVJXTlVZMGVtVnFWR1p6Tm14VlMwRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USTVNRFV6Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVnbzViRWRNTkRGVWFtSkhiak5UWm05WU5FbFhOSGh2UlVsNU4yZEJLMUkzWW1aMVRUQXJUR1pvWW10amVXbE1aR2hSUVUxUmFVa3paVXRuWXl0RWNqTlhZVlZPYWxGSE5sUkNla294Vm1KVk9FYzBSRVpCUVQwOUNnPT0=",
       "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.3.0/CaTop.app.tar.gz"
     }
   }
