@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "v0.3.0: Release\n\n## v0.3.0  ### 개선 - 설치 중 네비게이션 차단: 런타임 설치 진행 중 사이드바 클릭으로 페이지 이동 방지 - 설치 중 \"숨기기\" 버튼 차단: 설치 UI가 실수로 접히지 않도록 방지 - 차단 시 경고 배너 표시 (2초 후 자동 소멸)  ### 버그 수정 - Podman 기존 machine이 있을 때 리소스가 기본값(2GB)으로 유지되던 버그 수정   - 기존 machine에 `podman machine set --cpus 4 --memory 4096` 실행하여 리소스 업데이트  ## v0.2.19  ### 버그 수정 - 런타임 설치 완료 판정 강화: 바이너리 존재뿐 아니라 VM 실행 상태까지 확인   - Podman: machine이 Running 상태여야 \"설치됨\"으로 표시   - Colima: VM이 실행 중이어야 \"설치됨\"으로 표시   - 중단된 설치 시 다시 설치 버튼 활성화 → 멱등 재개 가능 ",
-  "pub_date": "2026-02-15T04:19:16Z",
+  "version": "0.3.1",
+  "notes": "v0.3.1: Release\n\n## v0.3.1  ### 버그 수정 - Podman VM 리소스 읽기 오류 수정: Memory(MB)와 DiskSize(GB)를 바이트로 잘못 해석하던 버그   - 메모리/디스크가 항상 기본값(2GB/100GB)으로 표시되고 변경이 반영 안 되던 문제 해결  ## v0.3.0  ### 개선 - 설치 중 네비게이션 차단: 런타임 설치 진행 중 사이드바 클릭으로 페이지 이동 방지 - 설치 중 \"숨기기\" 버튼 차단: 설치 UI가 실수로 접히지 않도록 방지 - 차단 시 경고 배너 표시 (2초 후 자동 소멸)  ### 버그 수정 - Podman 기존 machine이 있을 때 리소스가 기본값(2GB)으로 유지되던 버그 수정   - 기존 machine에 `podman machine set --cpus 4 --memory 4096` 실행하여 리소스 업데이트  ## v0.2.19  ### 버그 수정 - 런타임 설치 완료 판정 강화: 바이너리 존재뿐 아니라 VM 실행 상태까지 확인   - Podman: machine이 Running 상태여야 \"설치됨\"으로 표시   - Colima: VM이 실행 중이어야 \"설치됨\"으로 표시   - 중단된 설치 시 다시 설치 버튼 활성화 → 멱등 재개 가능 ",
+  "pub_date": "2026-02-15T04:28:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKc2FYVldkbWszZW5oSVZFOXZaamtyYVVkSlpFVnFlVTk2V0V4SVJGVkxkSFJvVjFadFZrdHRTMVpEYzFwNWVFOUlUbEUyTWxwcFlVMWhZV1pzU1cxNVoyRllkbVJXTlVZMGVtVnFWR1p6Tm14VlMwRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USTVNRFV6Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVnbzViRWRNTkRGVWFtSkhiak5UWm05WU5FbFhOSGh2UlVsNU4yZEJLMUkzWW1aMVRUQXJUR1pvWW10amVXbE1aR2hSUVUxUmFVa3paVXRuWXl0RWNqTlhZVlZPYWxGSE5sUkNla294Vm1KVk9FYzBSRVpCUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.3.0/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBsclJYRnZZa3BMT0M5SlJFdGpla2RMVW1GWWNscGtiM0psUVU1VlVFUmlWWHBIWkd4REwzZE1VVkZxYzFSNlNYZ3JOMk5YUmpCbVFVWjNRa0pUTjB3NUwzWnZkRGRzWmtkSVNIZDRjV0pMZVhsUFVWRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1USTVOakU1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncERkeTlFVG1jd2JIZHJOV2RYTTBSelJVMTBkbGNyTW1VNFoxVmxlakZuUkZWTVVIVXliVll2Y0dweFdUbFhVbnBKT0N0VGJrdFRVSEZ5WlZwYVJXSm9ZWFJoWkdJMFowWXhSV2RKZEhWMVlpdDNhVWxEZHowOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.3.1/CaTop.app.tar.gz"
     }
   }
 }
