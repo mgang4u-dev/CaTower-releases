@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
-  "notes": "v0.2.11: Release\n\n## v0.2.11  ### 개선 - 초기 설치 페이지 UI 간소화 (불필요한 안내 문구 및 아이콘 제거) ",
-  "pub_date": "2026-02-14T09:05:35Z",
+  "version": "0.2.12",
+  "notes": "v0.2.12: Release\n\n## v0.2.12  ### 새 기능 - VM 리소스 설정: 설정 페이지에서 Colima/Podman VM의 CPU 코어, 메모리를 조회/변경 가능 - 변경 시 확인 다이얼로그 및 실시간 진행 로그 표시 - 한국어/영어/일본어 번역 지원 ",
+  "pub_date": "2026-02-15T01:02:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBNMGEwNDVkRWxzVFhoTFpVNXpTeXMzTm5ZM1UwWnViM2d5SzBkQmVqVnlka1ZtU1V0VlZYTkxORUpyTmtFM01EaHBVbUpwZUVkUFZteGtSVTUwYWsxcGIzcHNNeXMzYWtKaFFWSkxMMkZqVEhkMWFrRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1EVTVPRE15Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHVOVTB6ZGpGSlRtcHNkMlo0ZUhNMmFucEhaV3NyVDBsRFdubzJWbWhPVFROdk4zVjVjbVpxYjFZNGEwcHVUMnhGTlVkS1JrVkdhV2RpYW14NU1WZFFOMHRETldGdWIyMHJWVUo1YXpSdGEyMVVUMDlEUVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.11/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKd1Zrb3ZObkZCYVVsVWVqUnRhVmhsTm5SNmJIbHNNMUoxTUVRemRGY3JVM1paTVdaS1ptY3pRMFp1WmtsNldrb3JXbkpQU2s4dlJEbERObEZwYTJkVVMxcFFWMnhIYUc5bWNXZDRiamt3UTBOeWExRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTNNalU0Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncGFWM0l5TkVSVFZGZzBlWFJ2UVdodFpHUXZOWGMxYUhacWIyd3pZelpoZEVORlZWcE1jM1I0TkRkTk0zaEhRMGRvVEM5d1NuSkZaR3g1WVc1MGVrVnpUbGh5VERkaWFDczFlVkZ6ZFdWaGRqTlBhMFpFUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.12/CaTop.app.tar.gz"
     }
   }
 }
