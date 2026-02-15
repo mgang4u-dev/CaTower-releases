@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
-  "notes": "v0.2.14: Release\n\n## v0.2.14  ### 개선 - Colima/Podman 신규 설치 시 VM 디스크 기본값을 150GB로 변경 ",
-  "pub_date": "2026-02-15T01:24:51Z",
+  "version": "0.2.15",
+  "notes": "v0.2.15: Release\n\n## v0.2.15  ### 버그 수정 - Apple Container 설치 시 커널 다운로드 XPC 연결 오류 수정 (서비스 시작 순서 변경 + 재시도) ",
+  "pub_date": "2026-02-15T01:40:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0QlIyNDRabTlLWnk5bVoySkJkVXBpVG5rNVZ6bHVLMFJRT1daMmVVZFhhM0l2VlM5aFZsZGlWWGt2TVU5YU4wVkdUbEpuV0V4UFFXZExhMGRRVkhkSlEzSndiWEpLVlZSbVduRXpXVzV1WVdwTGFWRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTROVGc1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHdXRk51WlVGaGNpOVZNM2xLU1c5UlVUWTFiVlozUVROc01UaG5XbkZNY21kd1ZtOVZVR2x3TUV3NWFITTNSVFV6ZDBRNGRHTmpka1JZSzBoMlVrUjFjWEpqTUdSaFlUTlNTbmhET1dOME1ETklWWEZDWnowOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.14/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBZeFdFbFlNMmx4VW05TVJtcHhhMDlVZWxkVGRrbGhiV3BUVFRFekwyNXpVMWxQYTJZM1owbGxjSGxFSzB4S016TllabWxQY1hjMlpuaGhSemhyUlRCbFJtOTZkMHBWUm5wc1ZYQXJTVU0zYjA0NWRrRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTVOVFExQ1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncDZjVlpVZUdkbE5tOVlUR1JZYUU1SWQyeFJlV1kwU0ZwMlEzRkpVMGczWWpjNWJubHBNVnB6VVVWSFpXNDBTbVJMT1ZOd2NIbEJVVE56VGxsS2RXZGFiWFV6SzFkS05GcFpWV0pHT0M4M2FHRllhRVpFUVQwOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.15/CaTop.app.tar.gz"
     }
   }
 }
