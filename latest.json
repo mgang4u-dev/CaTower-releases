@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "notes": "v0.2.13: Release\n\n## v0.2.13  ### 개선 - VM 리소스 UI: 메모리/디스크 라벨에 (GB) 단위 표시, 숫자 정렬 통일 ",
-  "pub_date": "2026-02-15T01:15:09Z",
+  "version": "0.2.14",
+  "notes": "v0.2.14: Release\n\n## v0.2.14  ### 개선 - Colima/Podman 신규 설치 시 VM 디스크 기본값을 150GB로 변경 ",
+  "pub_date": "2026-02-15T01:24:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFBd2FXTnhkakZqYVZselRsSjFjWHBSVld0VmJVaEVaVlJhTURacWJUQnJTREZuVFVOWGVFMWxSMHhJWTBjclpXMTZXa3hpU1hwNFVVeG5PRzVDUjFGb2NVOUVUMlUwUW05VFJGQjVOVXh1SzB4c2EwRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTNPVGd3Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncFBlVzlqTldnelVFUjJTV3hEZEZGTFlWcFRjREpyUlVNeVEzbHRZa3BuZVdvNVdqUlVXSFUxY1hSWksxUlRRbXAzYm1wNGJrZG1TbmQyWTFveVkwNTFTR0YzVjFoWmNUTkVTWEpVYVVaeFRVVXZUMDVCVVQwOUNnPT0=",
-      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.13/CaTop.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0QlIyNDRabTlLWnk5bVoySkJkVXBpVG5rNVZ6bHVLMFJRT1daMmVVZFhhM0l2VlM5aFZsZGlWWGt2TVU5YU4wVkdUbEpuV0V4UFFXZExhMGRRVkhkSlEzSndiWEpLVlZSbVduRXpXVzV1WVdwTGFWRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE1URTROVGc1Q1dacGJHVTZRMkZVYjNBdVlYQndMblJoY2k1bmVncHdXRk51WlVGaGNpOVZNM2xLU1c5UlVUWTFiVlozUVROc01UaG5XbkZNY21kd1ZtOVZVR2x3TUV3NWFITTNSVFV6ZDBRNGRHTmpka1JZSzBoMlVrUjFjWEpqTUdSaFlUTlNTbmhET1dOME1ETklWWEZDWnowOUNnPT0=",
+      "url": "https://github.com/mgang4u-dev/CaTop-releases/releases/download/v0.2.14/CaTop.app.tar.gz"
     }
   }
 }
