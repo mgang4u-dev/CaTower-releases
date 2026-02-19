@@ -1,4 +1,4 @@
-# CaTop
+# CaTower
 
 macOS Container Management GUI (Docker / Podman / Apple Container)
 
