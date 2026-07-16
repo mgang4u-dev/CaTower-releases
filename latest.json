@@ -1,0 +1,11 @@
+{
+  "version": "0.6.3",
+  "notes": "v0.6.3: Release",
+  "pub_date": "2026-02-28T11:27:48Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0d1EyaEVaR3REVW5WNVdIQlFXREIyZW1KVloyOXhURXh5YTFkd1dtZFVhRnBsUkdGaWNYZDFRa1JaWVZBMGVFOWpZbkJqUVRWcGFqRnlUWE5hYmxoWlVIaHRTek4yVWtSb1FXbGhSVkpzTkVWbVNrRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU1qYzRNRFl3Q1dacGJHVTZRMkZVYjNkbGNpNWhjSEF1ZEdGeUxtZDZDbEpvYkZOdFpURmlkbU5wTXpaRmNrNXFSVU53ZVZRMlVuSkRXRFZXU0dSdFVVMVZkRTFFVmtGSmMyNURUR1IxU2pSU1UzQjBSa2s1VURSSFkwbzJSbEJWTlhKT1FUQXJOV3hTZG1SRVJsaGljR0U1YkVSQlBUMEs=",
+      "url": "https://git.mgang.app/mgang4u/CaTower-releases/releases/download/v0.6.3/CaTower.app.tar.gz"
+    }
+  }
+}
